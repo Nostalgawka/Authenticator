@@ -1,0 +1,4 @@
+name: AuthorizationPlugin
+description: A simple plugin for testing NostalgawkaTM Jebac-Disa authorization system.
+main: io.xapeh.auth.AuthorizationPlugin
+version: '1.1'
